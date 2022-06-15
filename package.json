@@ -1,5 +1,5 @@
 {
-  "name": "@aceamarco/jsonresume-theme-macchiato-macea",
+  "name": "jsonresume-theme-macchiato-macea",
   "version": "1.0.5",
   "description": "Simple theme for JSON Resume. Based on macchiato, which based on caffeine-theme.",
   "author": "Marco Acea (Fork created by Alessandro Biondi)",
